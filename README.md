@@ -2,7 +2,7 @@
 
 
 
-## Automated Attendance System using QR Code
+## *Automated Attendance System using QR Code
 
 
 
@@ -144,7 +144,7 @@ Simplify attendance management with the Automated Attendance System using QR Cod
 
 
 
-## College Course Recommender
+## *College Course Recommender
 
 
 
@@ -190,7 +190,7 @@ Discover the perfect college course for you with the College Course Recommender 
 
 
 
-## Data Analysis on CSV
+## *Data Analysis on CSV
 
 
 
@@ -280,7 +280,7 @@ Explore and analyze your CSV data effortlessly with Data Analysis on CSV. Whethe
 
 
 
-## Goals Tracker
+## *Goals Tracker
 
 
 
@@ -368,7 +368,7 @@ Track and manage your goals efficiently with the Goal Tracker. Whether you're wo
 
 
 
-## Latest Technology News Fetcher
+## *Latest Technology News Fetcher
 
 
 
@@ -415,7 +415,7 @@ Stay up-to-date with the latest tech news using the Latest Technology News Progr
 
 
 
-## Latest Technology News(GUI version)
+## *Latest Technology News(GUI version)
 
 
 
@@ -503,7 +503,7 @@ Stay updated with the latest technology news using the Latest Technology News (G
 
 
 
-# SecURL
+# *SecURL
 
 A simple GUI app built using Python that checks if a URL/Link is safe or not. This can help prevent Phishing Attacks which is very common nowadays.
 
@@ -619,7 +619,7 @@ Check the safety of URLs quickly and easily with SecURL. Whether you're verifyin
 
 
 
-## Terminal Based Chat App
+## *Terminal Based Chat App
 
 
 
