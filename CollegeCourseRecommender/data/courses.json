@@ -1,0 +1,580 @@
+{
+    "courses": [
+        {
+            "name": "AB in Communication",
+            "years_to_study": 4,
+            "interests": ["Communication Theory", "Media Studies", "Public Relations", "Journalism", "Digital Media", "Communication Studies", "Interpersonal Communication", "Mass Communication"],
+            "description": "The Bachelor of Arts in Communication program explores communication theory, media studies, and digital media. Graduates can work as communication specialists, journalists, or public relations experts."
+        },
+        {
+            "name": "AB in Economics",
+            "years_to_study": 4,
+            "interests": ["Microeconomics", "Macroeconomics", "Economic Policy", "International Economics", "Econometrics", "Economics"],
+            "description": "The Bachelor of Arts in Economics program covers microeconomics, macroeconomics, and economic policy. Graduates can pursue careers in economics, finance, or government policy analysis."
+        },
+        {
+            "name": "AB in History",
+            "years_to_study": 4,
+            "interests": ["History","Historical Research", "World History", "Cultural History", "Archival Studies", "Historiography", "Museum Studies"],
+            "description": "The Bachelor of Arts in History program emphasizes historical research, world history, and historiography. Graduates can become historians, researchers, or work in archival management."
+        },
+        {
+            "name": "AB in Journalism",
+            "years_to_study": 4,
+            "interests": ["Journalistic Writing", "Media Ethics", "Digital Journalism", "Broadcast Journalism", "Investigative Journalism", "Literary Analysis", "Comparative Literature", "Critical Theory", "Literary Criticism", "Creative Writing", "News Reporting"],
+            "description": "The Bachelor of Arts in Journalism program covers journalistic writing, media ethics, and various forms of journalism. Graduates can work as journalists, editors, or media professionals."
+        },
+        {
+            "name": "AB in Literature",
+            "years_to_study": 4,
+            "interests": ["Literature","Literary Analysis", "World Literature", "Poetry", "Drama", "Literary Theory", "Creative Writing", "Literary Studies", "Comparative Literature"],
+            "description": "The Bachelor of Arts in Literature program focuses on literary analysis, world literature, and literary theory. Graduates can work as literary analysts, educators, or pursue advanced studies in literature."
+        },
+        {
+            "name": "AB in Mass Communication",
+            "years_to_study": 4,
+            "interests": ["Mass Media", "Media Production", "Media Effects", "Advertising", "Media Law", "Media Ethics", "Broadcasting"],
+            "description": "The Bachelor of Arts in Mass Communication program explores mass media, media production, and media effects. Graduates can work in media production, advertising, or media law."
+        },
+        {
+            "name": "AB in Philosophy",
+            "years_to_study": 4,
+            "interests": ["Philosophy","Philosophical Inquiry", "Epistemology", "Metaphysics", "Ethics", "Philosophy of Mind", "Philosophical Analysis"],
+            "description": "The Bachelor of Arts in Philosophy program delves into philosophical ethics, epistemology, metaphysics, and logic. Graduates can pursue careers in philosophy, academia, or critical thinking roles."
+        },
+        {
+            "name": "AB in Political Science",
+            "years_to_study": 4,
+            "interests": ["Politics", "Government", "Political Theory", "Comparative Politics", "International Relations", "Public Policy", "Political Analysis"],
+            "description": "The Bachelor of Arts in Political Science program covers political theory, comparative politics, and international relations. Graduates can work in government, diplomacy, or policy analysis."
+        },
+        {
+            "name": "AB in Psychology",
+            "years_to_study": 4,
+            "interests": ["Psychological Research", "Clinical Psychology", "Counseling Psychology", "Developmental Psychology", "Abnormal Psychology", "Behavioral Analysis"],
+            "description": "The Bachelor of Arts in Psychology program includes psychological research, clinical psychology, and counseling psychology. Graduates can work as psychologists, counselors, or researchers in psychology."
+        },
+        {
+            "name": "AB in Sociology",
+            "years_to_study": 4,
+            "interests": ["Sociological Theory", "Social Research", "Cultural Sociology", "Social Inequality", "Urban Sociology", "Social Change", "Social Justice", "Social Development", "Community Development"],
+            "description": "The Bachelor of Arts in Sociology program explores sociological theory, social research, and cultural sociology. Graduates can work as sociologists, researchers, or in social policy analysis."
+        },
+        {
+            "name": "AB in Social Science",
+            "years_to_study": 4,
+            "interests": ["Interdisciplinary Studies", "Social Sciences", "Humanities", "Cultural Studies", "Research Methodology"],
+            "description": "The Bachelor of Arts in Social Science program encourages interdisciplinary studies in social sciences, humanities, and cultural studies. Graduates can work in education, research, or cultural analysis."
+        },
+        {
+            "name": "AB in Theology",
+            "years_to_study": 4,
+            "interests": ["Theological Studies", "Religious Ethics", "Biblical Studies", "Spiritual Theology", "Church History", "Spiritual Leadership", "Religious Education"],
+            "description": "The Bachelor of Arts in Theology program focuses on theological studies, religious ethics, and biblical studies. Graduates can become theologians, religious educators, or pursue advanced studies in theology."
+        },
+        {
+            "name": "Bachelor of Agricultural Technology",
+            "years_to_study": 4,
+            "interests": ["Agricultural Technology", "Crop Production", "Livestock Management", "Agricultural Extension", "Sustainable Agriculture"],
+            "description": "The Bachelor of Agricultural Technology program covers agricultural technology, crop production, and livestock management. Graduates can work in agricultural technology, farm management, or agricultural extension."
+        },
+        {
+            "name": "Bachelor of Arts in Communication",
+            "years_to_study": 4,
+            "interests": ["Communication Theory", "Media Studies", "Public Relations", "Journalism", "Digital Media"],
+            "description": "The Bachelor of Arts in Communication program explores communication theory, media studies, and digital media. Graduates can work as communication specialists, journalists, or public relations experts."
+        },
+        {
+            "name": "Bachelor of Fine Arts",
+            "years_to_study": 4,
+            "interests": ["Visual Arts", "Painting", "Sculpture", "Digital Art", "Art History", "Studio Art", "Creative Expression"],
+            "description": "The Bachelor of Fine Arts program focuses on visual arts, including painting, sculpture, and digital art. Graduates can work as visual artists, art educators, or in art curation and history."
+        },
+        {
+            "name": "Bachelor of Library and Information Science",
+            "years_to_study": 4,
+            "interests": ["Library Science", "Information Management", "Cataloging", "Information Retrieval", "Archiving"],
+            "description": "The Bachelor of Library and Information Science program covers library science, information management, and archiving. Graduates can become librarians, information specialists, or archivists."
+        },
+        {
+            "name": "Bachelor of Music in Music Education",
+            "years_to_study": 4,
+            "interests": ["Music", "Music Education", "Music Performance", "Music Theory", "Music History", "Music Pedagogy", "Instrumental Instruction", "Choral Education"],
+            "description": "The Bachelor of Music in Music Education program emphasizes music education, music performance, and music pedagogy. Graduates can become music educators, performers, or music directors."
+        },
+        {
+            "name": "Bachelor of Technical Teacher Education",
+            "years_to_study": 4,
+            "interests": ["Technical Education", "Teaching Methods", "Curriculum Development", "Educational Psychology", "Technical Skills"],
+            "description": "The Bachelor of Technical Teacher Education program focuses on technical education, teaching methods, and curriculum development. Graduates can become technical education teachers, curriculum developers, or educational psychologists."
+        },
+        {
+            "name": "BS in Accountancy",
+            "years_to_study": 4,
+            "interests": ["Financial Accounting", "Managerial Accounting", "Auditing", "Taxation", "Accounting Information Systems", "Financial Analysis"],
+            "description": "The Bachelor of Science in Accountancy program covers financial accounting, managerial accounting, auditing, and taxation. Graduates can become certified public accountants (CPAs) and work in accounting firms, finance, or auditing."
+        },
+        {
+            "name": "BS in Accounting Technology",
+            "years_to_study": 4,
+            "interests": ["Financial Reporting", "Tax Compliance", "Accounting Software", "Bookkeeping", "Financial Analysis"],
+            "description": "The Bachelor of Science in Accounting Technology program focuses on financial reporting, tax compliance, and accounting software. Graduates can work as accounting technicians, bookkeepers, or financial analysts."
+        },
+        {
+            "name": "BS in Aeronautical Engineering",
+            "years_to_study": 4,
+            "interests": ["Aircraft Design", "Aerospace Technology", "Flight Mechanics", "Aircraft Systems", "Aerodynamics", "Aircraft Propulsion", "Aviation Technology"],
+            "description": "The Bachelor of Science in Aeronautical Engineering program covers aircraft design, aerospace technology, and flight mechanics. Graduates can work in aircraft design, aviation technology, or aerospace engineering."
+        },
+        {
+            "name": "BS in Agriculture",
+            "years_to_study": 4,
+            "interests": ["Agricultural Sciences", "Agricultural Economics", "Crop Management", "Animal Husbandry", "Agribusiness", "Sustainable Agriculture"],
+            "description": "The Bachelor of Science in Agriculture program covers agricultural sciences, crop management, and agribusiness. Graduates can work in agriculture, agribusiness, or agricultural research."
+        },
+        {
+            "name": "BS in Agricultural Engineering",
+            "years_to_study": 4,
+            "interests": ["Agricultural Machinery", "Irrigation Engineering", "Farm Structures", "Biological Systems Engineering", "Sustainable Agriculture"],
+            "description": "The Bachelor of Science in Agricultural Engineering program focuses on agricultural machinery, irrigation engineering, and sustainable agriculture. Graduates can work as agricultural engineers, farm equipment designers, or in agricultural research."
+        },
+        {
+            "name": "BS in Architecture",
+            "years_to_study": 5,
+            "interests": ["Architectural Design", "Building Construction", "Architectural History", "Sustainable Architecture", "Urban Planning"],
+            "description": "The Bachelor of Science in Architecture program emphasizes architectural design, building construction, and sustainable architecture. Graduates can become architects, architectural designers, or urban planners."
+        },
+        {
+            "name": "BS in Business Administration",
+            "years_to_study": 4,
+            "interests": ["Business Management", "Marketing", "Finance", "Human Resources", "Entrepreneurship"],
+            "description": "The Bachelor of Science in Business Administration program covers business management, marketing, finance, and entrepreneurship. Graduates can work in various business roles, including management, marketing, and finance."
+        },
+        {
+            "name": "BS in Chemical Engineering",
+            "years_to_study": 4,
+            "interests": ["Chemical Processes", "Chemical Plant Design", "Chemical Analysis", "Process Optimization", "Chemical Production"],
+            "description": "The Bachelor of Science in Chemical Engineering program focuses on chemical processes, chemical plant design, and process optimization. Graduates can work in chemical engineering, chemical plant design, or process engineering."
+        },
+        {
+            "name": "BS in Community Development",
+            "years_to_study": 4,
+            "interests": ["Community Planning", "Social Development", "Community Engagement", "Sustainable Development", "Community Health", "Community Welfare", "Community Development"],
+            "description": "The Bachelor of Science in Community Development program focuses on community planning, social development, and sustainable development. Graduates can work in community development organizations, social services, or government agencies."
+        },
+        {
+            "name": "BS in Computer Engineering",
+            "years_to_study": 4,
+            "interests": ["Computer Hardware", "Computer Software", "Embedded Systems", "Computer Architecture", "Digital Systems", "Computer Networks"],
+            "description": "The Bachelor of Science in Computer Engineering program focuses on computer hardware, embedded systems, and computer architecture. Graduates can work in computer engineering, hardware design, or embedded systems development."
+        },
+        {
+            "name": "BS in Computer Science",
+            "years_to_study": 4,
+            "interests": ["Computer Programming", "Software Development", "Data Structures", "Algorithms", "Artificial Intelligence", "Web Development", "Computer Security"],
+            "description": "The Bachelor of Science in Computer Science program focuses on software development, data structures, and algorithms. Graduates can work as software developers, programmers, or in IT roles."
+        },
+        {
+            "name": "BS in Criminology",
+            "years_to_study": 4,
+            "interests": ["Criminology", "Criminal Justice", "Criminal Investigation", "Criminological Theories", "Forensic Science", "Law Enforcement", "Crime Prevention", "Criminal Psychology"],
+            "description": "The Bachelor of Science in Criminology program covers criminal justice, criminal investigation, and criminological theories. Graduates can work in law enforcement, criminal justice agencies, or as forensic scientists."
+        },
+        {
+            "name": "BS in Developmental Communication",
+            "years_to_study": 4,
+            "interests": ["Communication for Development", "Media Production", "Development Theories", "Social Marketing", "Community Engagement", "Social Change"],
+            "description": "The Bachelor of Science in Developmental Communication program explores communication for development, media production, and development theories. Graduates can work in communication for social change, media production, or community development."
+        },
+        {
+            "name": "BS in Economics",
+            "years_to_study": 4,
+            "interests": ["Microeconomics", "Macroeconomics", "Economic Policy", "International Economics", "Econometrics"],
+            "description": "The Bachelor of Science in Economics program covers microeconomics, macroeconomics, and economic policy. Graduates can pursue careers in economics, finance, or government policy analysis."
+        },
+        {
+            "name": "BS in Electrical Engineering",
+            "years_to_study": 4,
+            "interests": ["Electrical Systems", "Electronics", "Power Generation", "Control Systems", "Renewable Energy"],
+            "description": "The Bachelor of Science in Electrical Engineering program focuses on electrical systems, electronics, and power generation. Graduates can work as electrical engineers, designing and maintaining electrical systems."
+        },
+        {
+            "name": "BS in Entrepreneurial Management",
+            "years_to_study": 4,
+            "interests": ["Entrepreneurship", "Business Development", "Startup Management", "Innovation", "Small Business Ownership"],
+            "description": "The Bachelor of Science in Entrepreneurial Management program focuses on entrepreneurship, business development, and startup management. Graduates can become entrepreneurs, business consultants, or startup founders."
+        },
+        {
+            "name": "BS in Environmental Science",
+            "years_to_study": 4,
+            "interests": ["Environment", "Environmental Sustainability", "Ecology", "Environmental Policy", "Conservation Biology", "Environmental Impact Assessment", "Environmental Monitoring"],
+            "description": "The Bachelor of Science in Environmental Science program explores environmental sustainability, ecology, and environmental policy. Graduates can work in environmental research, conservation, or policy analysis."
+        },
+        {
+            "name": "BS in Fisheries and Aquatic Resources",
+            "years_to_study": 4,
+            "interests": ["Fisheries Management", "Aquaculture", "Aquatic Ecology", "Marine Biology", "Environmental Conservation", "Fisheries Technology", "Marine Conservation"],
+            "description": "The Bachelor of Science in Fisheries and Aquatic Resources program covers fisheries management, aquaculture, and marine biology. Graduates can work in fisheries management, marine research, or aquaculture."
+        },
+        {
+            "name": "BS in Food Technology",
+            "years_to_study": 4,
+            "interests": ["Food", "Food Science", "Food Processing", "Quality Assurance", "Food Safety", "Nutrition", "Product Development"],
+            "description": "The Bachelor of Science in Food Technology program focuses on food science, food processing, and quality assurance. Graduates can work in the food industry, food processing, or quality control."
+        },
+        {
+            "name": "BS in Geodetic Engineering",
+            "years_to_study": 4,
+            "interests": ["Geodetic Surveying", "Geographic Information Systems", "Geospatial Analysis", "Remote Sensing", "Cartography", "Mapping", "Land Management"],
+            "description": "The Bachelor of Science in Geodetic Engineering program covers geodetic surveying, geographic information systems, and land management. Graduates can work in land surveying, GIS mapping, or land administration."
+        },
+        {
+            "name": "BS in Hotel and Restaurant Management",
+            "years_to_study": 4,
+            "interests": ["Hotel Management", "Hospitality Management", "Culinary Arts", "Hotel Operations", "Restaurant Management", "Event Planning", "Guest Services"],
+            "description": "The Bachelor of Science in Hotel and Restaurant Management program focuses on hospitality management, culinary arts, and hotel/restaurant operations. Graduates can work in the hospitality industry, managing hotels, restaurants, or event planning."
+        },
+        {
+            "name": "BS in Human Resource Development Management",
+            "years_to_study": 4,
+            "interests": ["Human Resource Management", "Training and Development", "Organizational Behavior", "Employee Relations", "Talent Management"],
+            "description": "The Bachelor of Science in Human Resource Development Management program covers human resource management, training and development, and talent management. Graduates can work as HR managers, training specialists, or organizational development consultants."
+        },
+        {
+            "name": "BS in Industrial Engineering",
+            "years_to_study": 4,
+            "interests": ["Process Improvement", "Operations Management", "Supply Chain Management", "Quality Control", "Industrial Systems Design"],
+            "description": "The Bachelor of Science in Industrial Engineering program emphasizes process improvement, operations management, and supply chain management. Graduates can work in manufacturing, logistics, or quality control."
+        },
+        {
+            "name": "BS in Information and Communications Technology",
+            "years_to_study": 4,
+            "interests": ["IT Management", "Network Security", "Database Management", "Software Development", "Digital Innovation"],
+            "description": "The Bachelor of Science in Information and Communications Technology program covers IT management, network security, and software development. Graduates can work in IT management, cybersecurity, or software engineering."
+        },
+        {
+            "name": "BS in Information Technology",
+            "years_to_study": 4,
+            "interests": ["Information Technology", "Network Security", "Database Management", "Software Development", "IT Consulting"],
+            "description": "The Bachelor of Science in Information and Communications Technology program focuses on information technology, network security, and software development. Graduates can work in IT, network administration, or software engineering."
+        },
+        {
+            "name": "BS in Information Systems",
+            "years_to_study": 4,
+            "interests": ["Information Technology", "Database Management", "Business Analysis", "System Design", "IT Project Management", "IT Management", "Systems Development"],
+            "description": "The Bachelor of Science in Information Systems program focuses on information technology, database management, and business analysis. Graduates can work as IT analysts, database administrators, or systems analysts."
+        },
+        {
+            "name": "BS in Legal Management",
+            "years_to_study": 4,
+            "interests": ["Legal Studies", "Law and Society", "Legal Research", "Legal Writing", "Business Law"],
+            "description": "The Bachelor of Science in Legal Management program covers legal studies, law and society, and business law. Graduates can work in legal research, legal writing, or pursue further legal studies."
+        },
+        {
+            "name": "BS in Marine Biology",
+            "years_to_study": 4,
+            "interests": ["Marine Biology", "Marine Ecology", "Marine Conservation", "Marine Biodiversity", "Oceanography", "Aquatic Research", "Marine Environmental Management"],
+            "description": "The Bachelor of Science in Marine Biology program explores marine ecology, conservation, and biodiversity. Graduates can work as marine biologists, conservationists, or aquatic researchers."
+        },
+        {
+            "name": "BS in Marine Engineering",
+            "years_to_study": 4,
+            "interests": ["Marine Systems", "Ship Design", "Marine Propulsion", "Marine Safety", "Naval Architecture"],
+            "description": "The Bachelor of Science in Marine Engineering program covers marine systems, ship design, and marine propulsion. Graduates can work in marine engineering, ship design, or naval architecture."
+        },
+        {
+            "name": "BS in Marketing Management",
+            "years_to_study": 4,
+            "interests": ["Marketing Strategy", "Consumer Behavior", "Brand Management", "Market Research", "Digital Marketing"],
+            "description": "The Bachelor of Science in Marketing Management program focuses on marketing strategy, consumer behavior, and brand management. Graduates can work in marketing, advertising, or market research."
+        },
+        {
+            "name": "BS in Mechanical Engineering",
+            "years_to_study": 4,
+            "interests": ["Mechanical Design", "Thermodynamics", "Fluid Mechanics", "Manufacturing Processes", "Mechatronics"],
+            "description": "The Bachelor of Science in Mechanical Engineering program covers mechanical design, thermodynamics, and fluid mechanics. Graduates can work as mechanical engineers, designing and testing mechanical systems."
+        },
+        {
+            "name": "BS in Medical Technology",
+            "years_to_study": 4,
+            "interests": ["Medical Technology","Clinical Laboratory Science", "Medical Diagnostics", "Laboratory Techniques", "Medical Research", "Diagnostic Equipment", "Laboratory Testing", "Disease Detection"],
+            "description": "The Bachelor of Science in Medical Technology program focuses on clinical laboratory science, medical diagnostics, and laboratory techniques. Graduates can work as medical technologists, conducting diagnostic tests in healthcare settings."
+        },
+        {
+            "name": "BS in Midwifery",
+            "years_to_study": 4,
+            "interests": ["Midwifery", "Midwifery Care", "Maternal Health", "Prenatal Care", "Labor and Delivery", "Newborn Care", "Childbirth", "Women's Health"],
+            "description": "The Bachelor of Science in Midwifery program covers midwifery care, maternal health, and newborn care. Graduates can work as midwives, providing care to expectant mothers and newborns."
+        },
+        {
+            "name": "BS in Mining Engineering",
+            "years_to_study": 4,
+            "interests": ["Mining Operations", "Mineral Processing", "Mine Safety", "Geology", "Resource Management"],
+            "description": "The Bachelor of Science in Mining Engineering program focuses on mining operations, mineral processing, and mine safety. Graduates can work in mining engineering, resource management, or mine safety."
+        },
+        {
+            "name": "BS in Nursing",
+            "years_to_study": 4,
+            "interests": ["Nursing", "Nursing Care", "Patient Health", "Medical-Surgical Nursing", "Pediatric Nursing", "Maternal Health"],
+            "description": "The Bachelor of Science in Nursing program covers nursing care, patient health, and various nursing specialties. Graduates can become registered nurses, providing healthcare in clinical settings."
+        },
+        {
+            "name": "BS in Nutrition and Dietetics",
+            "years_to_study": 4,
+            "interests": ["Nutrition", "Dietetics", "Nutritional Science", "Clinical Nutrition", "Dietary Counseling", "Food Service Management", "Nutritional Counseling"],
+            "description": "The Bachelor of Science in Nutrition and Dietetics program focuses on dietetics, nutritional science, and dietary counseling. Graduates can work as dietitians, nutritionists, or food service managers."
+        },
+        {
+            "name": "BS in Occupational Therapy",
+            "years_to_study": 4,
+            "interests": ["Occupational Therapy", "Rehabilitation", "Therapeutic Techniques", "Pediatric Therapy", "Geriatric Therapy"],
+            "description": "The Bachelor of Science in Occupational Therapy program covers occupational therapy, rehabilitation, and therapeutic techniques. Graduates can become occupational therapists, helping individuals with disabilities or injuries regain independence."
+        },
+        {
+            "name": "BS in Office Administration",
+            "years_to_study": 4,
+            "interests": ["Office Administration", "Administrative Management", "Office Technology", "Business Communication", "Office Management"],
+            "description": "The Bachelor of Science in Office Administration program covers office administration, administrative management, and office technology. Graduates can work in office management, administrative roles, or business communication."
+        },
+        {
+            "name": "BS in Pharmacy",
+            "years_to_study": 5,
+            "interests": ["Pharmacy", "Pharmaceutical Sciences", "Pharmacology", "Medication Dispensing", "Patient Counseling", "Pharmacy Management", "Medication Counseling"],
+            "description": "The Bachelor of Science in Pharmacy program covers pharmaceutical sciences, pharmacology, and medication dispensing. Graduates can become pharmacists, dispensing medications and providing patient counseling."
+        },
+        {
+            "name": "BS in Physics",
+            "years_to_study": 4,
+            "interests": ["Classical Physics", "Quantum Mechanics", "Thermodynamics", "Optics", "Physics Research"],
+            "description": "The Bachelor of Science in Physics program covers classical physics, quantum mechanics, and various physics disciplines. Graduates can work as physicists, researchers, or in industries requiring physics expertise."
+        },
+        {
+            "name": "BS in Public Administration",
+            "years_to_study": 4,
+            "interests": ["Public Policy", "Government Administration", "Public Management", "Policy Analysis", "Public Service"],
+            "description": "The Bachelor of Science in Public Administration program focuses on public policy, government administration, and public management. Graduates can work in government agencies, public service organizations, or policy analysis."
+        },
+        {
+            "name": "BS in Respiratory Therapy",
+            "years_to_study": 4,
+            "interests": ["Respiratory Therapy", "Respiratory Care", "Lung Health", "Pulmonary Diagnostics", "Patient Education", "Critical Care", "Pulmonary Medicine"],
+            "description": "The Bachelor of Science in Respiratory Therapy program covers respiratory care, pulmonary diagnostics, and critical care. Graduates can become respiratory therapists, providing care to patients with breathing disorders."
+        },
+        {
+            "name": "BS in Social Work",
+            "years_to_study": 4,
+            "interests": ["Social Services", "Counseling", "Community Welfare", "Family Support", "Mental Health Services", "Case Management", "Community Outreach"],
+            "description": "The Bachelor of Science in Social Work program focuses on social services, counseling, and community welfare. Graduates can work as social workers, providing support to individuals and communities in need."
+        },
+        {
+            "name": "BS in Software Engineering",
+            "years_to_study": 4,
+            "interests": ["Software Development", "Software Architecture", "Programming", "Software Testing", "Software Project Management"],
+            "description": "The Bachelor of Science in Software Engineering program emphasizes software development, software architecture, and software testing. Graduates can work as software engineers, developing and maintaining software applications."
+        },
+        {
+            "name": "BS in Statistics",
+            "years_to_study": 4,
+            "interests": ["Statistics", "Statistical Analysis", "Data Science", "Probability Theory", "Data Visualization", "Statistical Modeling", "Data Interpretation", "Data Analysis"],
+            "description": "The Bachelor of Science in Statistics program covers statistical analysis, data science, and probability theory. Graduates can work as statisticians, data analysts, or in research and data-driven decision-making roles."
+        },
+        {
+            "name": "BS in Tourism",
+            "years_to_study": 4,
+            "interests": ["Tourism Management", "Hospitality", "Travel Planning", "Tourism Marketing", "Cultural Tourism"],
+            "description": "The Bachelor of Science in Tourism program focuses on tourism management, hospitality, and travel planning. Graduates can work in the tourism industry, managing destinations, planning travel experiences, or promoting tourism."
+        },
+        {
+            "name": "BS in Tourism Management",
+            "years_to_study": 4,
+            "interests": ["Tourism Management", "Hospitality", "Travel Planning", "Tourism Marketing", "Cultural Tourism"],
+            "description": "The Bachelor of Science in Tourism Management program focuses on tourism management, hospitality, and travel planning. Graduates can work in the tourism industry, managing destinations, planning travel experiences, or promoting tourism."
+        },
+        {
+            "name": "BS in Zoology",
+            "years_to_study": 4,
+            "interests": ["Zoology", "Animal Biology", "Wildlife Conservation", "Zoological Research", "Ecology", "Animal Behavior"],
+            "description": "The Bachelor of Science in Zoology program covers animal biology, wildlife conservation, and zoological research. Graduates can work as zoologists, wildlife biologists, or in conservation efforts."
+        },
+        {
+            "name": "BSBA in Banking and Finance",
+            "years_to_study": 4,
+            "interests": ["Banking", "Finance", "Investment Banking", "Financial Analysis", "Risk Management"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Banking and Finance program focuses on banking, finance, investment banking, and financial analysis. Graduates can work in banking, finance, or investment sectors."
+        },
+        {
+            "name": "BSBA in Entrepreneurship",
+            "years_to_study": 4,
+            "interests": ["Entrepreneurship", "Business Innovation", "Startup Management", "Small Business Ownership", "Venture Capital"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Entrepreneurship program emphasizes entrepreneurship, business innovation, and startup management. Graduates can become entrepreneurs, business consultants, or startup founders."
+        },
+        {
+            "name": "BSBA in Financial Management",
+            "years_to_study": 4,
+            "interests": ["Financial Management", "Financial Analysis", "Investment Management", "Risk Assessment", "Corporate Finance"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Financial Management program focuses on financial management, financial analysis, and investment management. Graduates can work in financial management, investment analysis, or corporate finance."
+        },
+        {
+            "name": "BSBA in Human Resource Development Management",
+            "years_to_study": 4,
+            "interests": ["Human Resource Management", "Training and Development", "Organizational Behavior", "Employee Relations", "Talent Management"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Human Resource Development Management program covers human resource management, training and development, and talent management. Graduates can work as HR managers, training specialists, or organizational development consultants."
+        },
+        {
+            "name": "BSBA in Management",
+            "years_to_study": 4,
+            "interests": ["Business Management", "Leadership", "Strategic Planning", "Organizational Development", "Management Consulting"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Management program focuses on business management, leadership, and organizational development. Graduates can work in management roles, leading organizations and teams."
+        },
+        {
+            "name": "BSBA in Management Accounting",
+            "years_to_study": 4,
+            "interests": ["Management Accounting", "Cost Analysis", "Budgeting", "Financial Reporting", "Strategic Management"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Management Accounting program covers management accounting, cost analysis, and financial reporting. Graduates can work as management accountants, financial analysts, or budget analysts."
+        },
+        {
+            "name": "BSBA in Marketing Management",
+            "years_to_study": 4,
+            "interests": ["Marketing Management", "Marketing Strategy", "Consumer Behavior", "Market Research", "Digital Marketing"],
+            "description": "The Bachelor of Science in Business Administration (BSBA) in Marketing Management program focuses on marketing management, marketing strategy, and consumer behavior. Graduates can work in marketing, advertising, or market research."
+        },
+        {
+            "name": "AB in English",
+            "years_to_study": 4,
+            "interests": ["English Literature", "Creative Writing", "Language Studies", "Literary Analysis", "Teaching English", "Linguistics"],
+            "description": "The Bachelor of Arts (AB) in English program emphasizes English literature, creative writing, and language studies. Graduates can work as writers, editors, or pursue careers in education."
+        },
+        {
+            "name": "AB in Multimedia Arts",
+            "years_to_study": 4,
+            "interests": ["Multimedia Design", "Digital Art", "Animation", "Web Development", "Interactive Media", "Graphic Design"],
+            "description": "The Bachelor of Arts (AB) in Multimedia Arts program focuses on multimedia design, digital art, and animation. Graduates can work as multimedia artists, web designers, or digital content creators."
+        },
+        {
+            "name": "Bachelor of Elementary Education",
+            "years_to_study": 4,
+            "interests": ["Elementary Education", "Teaching Methods", "Curriculum Development", "Educational Psychology", "Child Development"],
+            "description": "The Bachelor of Elementary Education program focuses on elementary education, teaching methods, and child development. Graduates can become elementary school teachers, curriculum developers, or educational psychologists."
+        },
+        {
+            "name": "Bachelor of Secondary Education",
+            "years_to_study": 4,
+            "interests": ["Secondary Education", "Teaching Subjects", "Curriculum Design", "Educational Technology", "Classroom Management"],
+            "description": "The Bachelor of Secondary Education program focuses on secondary education, teaching specific subjects, and classroom management. Graduates can become secondary school teachers, subject matter experts, or educational technologists."
+        },
+        {
+            "name": "BS in Aircraft Maintenance Technology",
+            "years_to_study": 4,
+            "interests": ["Aircraft Maintenance", "Aviation Safety", "Aircraft Systems", "Aircraft Inspection", "Aviation Regulations"],
+            "description": "The Bachelor of Science in Aircraft Maintenance Technology program covers aircraft maintenance, aviation safety, and aircraft systems. Graduates can work as aircraft maintenance technicians, ensuring the safety and reliability of aircraft."
+        },
+        {
+            "name": "BS in Applied Mathematics",
+            "years_to_study": 4,
+            "interests": ["Applied Mathematics", "Mathematical Modeling", "Numerical Analysis", "Mathematical Optimization", "Data Analysis"],
+            "description": "The Bachelor of Science in Applied Mathematics program covers applied mathematics, mathematical modeling, and data analysis. Graduates can work as mathematicians, data analysts, or in industries requiring mathematical expertise."
+        },
+        {
+            "name": "BS in Applied Physics",
+            "years_to_study": 4,
+            "interests": ["Applied Physics", "Physics Applications", "Instrumentation", "Experimental Physics", "Research and Development"],
+            "description": "The Bachelor of Science in Applied Physics program emphasizes applied physics, physics applications, and research and development. Graduates can work in applied physics research, instrumentation, or experimental physics."
+        },
+        {
+            "name": "BS in Biology",
+            "years_to_study": 4,
+            "interests": ["Biology", "Genetics", "Ecology", "Biotechnology", "Research"],
+            "description": "The Bachelor of Science in Biology program covers biology, genetics, ecology, and biotechnology. Graduates can work as biologists, geneticists, or in biotechnology research."
+        },
+        {
+            "name": "BS in Chemistry",
+            "years_to_study": 4,
+            "interests": ["Chemistry", "Analytical Chemistry", "Organic Chemistry", "Inorganic Chemistry", "Chemical Research"],
+            "description": "The Bachelor of Science in Chemistry program covers chemistry, analytical chemistry, and chemical research. Graduates can work as chemists, chemical analysts, or in chemical research and development."
+        },
+        {
+            "name": "BS in Civil Engineering",
+            "years_to_study": 4,
+            "interests": ["Civil Infrastructure", "Structural Engineering", "Transportation Engineering", "Environmental Engineering", "Construction Management"],
+            "description": "The Bachelor of Science in Civil Engineering program focuses on civil infrastructure, structural engineering, and transportation engineering. Graduates can work in civil engineering, construction management, or infrastructure development."
+        },
+        {
+            "name": "BS in Computer Technology",
+            "years_to_study": 4,
+            "interests": ["Computer Technology", "Network Administration", "Hardware Support", "Information Security", "IT Management"],
+            "description": "The Bachelor of Science in Computer Technology program focuses on computer technology, network administration, and hardware support. Graduates can work in computer technology, IT management, or network administration."
+        },
+        {
+            "name": "BS in Electronics & Communications Engineering",
+            "years_to_study": 4,
+            "interests": ["Electronics", "Communication Systems", "Signal Processing", "Telecommunications", "Wireless Technology"],
+            "description": "The Bachelor of Science in Electronics & Communications Engineering program focuses on electronics, communication systems, and signal processing. Graduates can work in electronics engineering, telecommunications, or wireless technology."
+        },
+        {
+            "name": "BS in Geology",
+            "years_to_study": 4,
+            "interests": ["Geology", "Earth Sciences", "Mineralogy", "Environmental Geology", "Geological Research"],
+            "description": "The Bachelor of Science in Geology program covers geology, earth sciences, and geological research. Graduates can work as geologists, environmental geologists, or in geological research and exploration."
+        },
+        {
+            "name": "BS in Hospitality Management",
+            "years_to_study": 4,
+            "interests": ["Hospitality Management", "Hotel Operations", "Restaurant Management", "Event Planning", "Tourism"],
+            "description": "The Bachelor of Science in Hospitality Management program focuses on hospitality management, hotel operations, and event planning. Graduates can work in the hospitality industry, hotel management, or event management."
+        },
+        {
+            "name": "BS in Industrial Education",
+            "years_to_study": 4,
+            "interests": ["Industrial Education", "Technical Training", "Vocational Education", "Educational Technology", "Instructional Design"],
+            "description": "The Bachelor of Science in Industrial Education program focuses on industrial education, technical training, and vocational education. Graduates can become industrial educators, vocational trainers, or instructional designers."
+        },
+        {
+            "name": "BS in Management Accounting",
+            "years_to_study": 4,
+            "interests": ["Management Accounting", "Cost Analysis", "Budgeting", "Financial Reporting", "Strategic Management"],
+            "description": "The Bachelor of Science in Management Accounting program covers management accounting, cost analysis, and financial reporting. Graduates can work as management accountants, financial analysts, or budget analysts."
+        },
+        {
+            "name": "BS in Marine Transportation",
+            "years_to_study": 4,
+            "interests": ["Marine Transportation", "Navigation", "Ship Operations", "Maritime Safety", "Maritime Law"],
+            "description": "The Bachelor of Science in Marine Transportation program covers marine transportation, navigation, and ship operations. Graduates can work as ship officers, maritime navigators, or in maritime logistics."
+        },
+        {
+            "name": "BS in Marketing Management",
+            "years_to_study": 4,
+            "interests": ["Marketing Management", "Marketing Strategy", "Consumer Behavior", "Market Research", "Digital Marketing"],
+            "description": "The Bachelor of Science in Marketing Management program focuses on marketing management, marketing strategy, and consumer behavior. Graduates can work in marketing, advertising, or market research."
+        },
+        {
+            "name": "BS in Mathematics",
+            "years_to_study": 4,
+            "interests": ["Mathematics", "Mathematical Analysis", "Algebra", "Number Theory", "Mathematical Research"],
+            "description": "The Bachelor of Science in Mathematics program covers mathematics, mathematical analysis, and algebra. Graduates can work as mathematicians, educators, or in mathematical research."
+        },
+        {
+            "name": "BS in Physical Therapy",
+            "years_to_study": 4,
+            "interests": ["Physical Therapy", "Rehabilitation", "Musculoskeletal Therapy", "Pediatric Physical Therapy", "Geriatric Physical Therapy"],
+            "description": "The Bachelor of Science in Physical Therapy program focuses on physical therapy, rehabilitation, and musculoskeletal therapy. Graduates can become physical therapists, helping individuals recover from injuries and improve mobility."
+        },
+        {
+            "name": "BS in Psychology",
+            "years_to_study": 4,
+            "interests": ["Psychological Science", "Clinical Psychology", "Counseling Psychology", "Behavioral Analysis", "Research Methods"],
+            "description": "The Bachelor of Science in Psychology program focuses on psychological science, clinical psychology, and counseling psychology. Graduates can work as psychologists, counselors, or in research roles."
+        },
+        {
+            "name": "BS in Marketing Management",
+            "years_to_study": 4,
+            "interests": ["Marketing Management", "Marketing Strategy", "Consumer Behavior", "Market Research", "Digital Marketing"],
+            "description": "The Bachelor of Science in Marketing Management program focuses on marketing management, marketing strategy, and consumer behavior. Graduates can work in marketing, advertising, or market research."
+        },
+        {
+            "name": "AB in Public Administration",
+            "years_to_study": 4,
+            "interests": ["Public Administration", "Public Policy", "Government Management", "Public Service", "Policy Analysis"],
+            "description": "The Bachelor of Arts in Public Administration program covers public administration, public policy, and government management. Graduates can work in public service, government agencies, or policy analysis."
+        }
+    ]
+}
