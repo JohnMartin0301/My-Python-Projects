@@ -503,9 +503,96 @@ Stay updated with the latest technology news using the Latest Technology News (G
 
 
 
-# *SecURL
+## *PyVault
+
+
+
+
+
+This Python project allows you to securely store and retrieve your platform credentials. Keep your passwords organized and easily accessible while maintaining a high level of security.
+
+
+
+
+
+![pyvault1](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/a6fc5051-6598-470b-8840-e76559b45af6)
+
+
+
+![pyvault2](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/e47320b1-ecad-46af-86a2-7c261e8f77a9)
+
+
+
+
+
+PyVault is your personal password manager, designed to help you keep track of your platform credentials. Whether it's website logins or app passwords, PyVault provides a secure and organized way to store and retrieve this vital information.
+
+
+
+
+
+## Features
+
+- Secure Password Storage: Safely store your platform details, including the platform name, username (if applicable), and password.
+
+- Efficient Retrieval: Retrieve your stored passwords with ease, ensuring you always have your credentials when you need them.
+
+- Display Details: Quickly view all your stored platform details, including usernames and passwords.
+
+
+
+
+
+## Usage
+
+- PyVault offers a straightforward menu-driven interface for managing your passwords:
+
+- Store Password🔐: Use this option to store a new platform's credentials securely.
+
+- Retrieve Password🔓: Retrieve a platform's stored credentials.
+
+- Display Details📄: View all stored platform details, including usernames and passwords.
+
+- Exit🔚: Exit PyVault.
+
+
+
+
+
+## Getting Started
+
+- Ensure CSV File: PyVault uses a CSV file to store your credentials. If you don't already have a file, PyVault will create one for you.
+
+- Choose an Option: When you run PyVault, choose one of the provided options to store, retrieve, or display your credentials.
+
+- Follow Prompts: Follow the prompts to complete your desired action.
+
+- Password Security: Ensure the security of your password file. Keep it safe and protected from unauthorized access.
+
+
+
+
+
+Enjoy the convenience and security of PyVault for managing your passwords. Secure your secrets with PyVault today! 🔒
+
+
+
+
+
+
+
+
+
+
+## *SecURL
+
+
+
+
 
 A simple GUI app built using Python that checks if a URL/Link is safe or not. This can help prevent Phishing Attacks which is very common nowadays.
+
+
 
 
 
@@ -555,6 +642,7 @@ SecURL provides a straightforward way to assess the safety of a URL. It sends a 
 
 
 ## Usage
+
 To use SecURL, follow these simple steps:
 
 1. **Run the Program:**
