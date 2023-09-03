@@ -503,6 +503,131 @@ Stay updated with the latest technology news using the Latest Technology News (G
 
 
 
+## *MasterLock Vault Program 
+
+
+
+
+
+This Python program allows you to lock and unlock your files using password-based encryption. Keep your sensitive files secure and accessible only to those who have the password.
+
+
+
+
+
+![ml2](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/1fa69ab6-e14c-4b72-b2bc-9ae8d3725dd6)
+
+
+
+
+
+The MasterLock Vault Program is designed to provide a secure and user-friendly way to lock and unlock files. It uses password-based encryption to protect your files from unauthorized access. Whether you want to secure documents, images, or any other type of file, the MasterLock Vault Program has you covered.
+
+
+
+
+
+## Features
+
+- File Locking: Lock your files with a password to protect them from unauthorized access.
+
+- File Unlocking: Unlock your locked files by providing the correct password.
+
+- Display Locked Files: View a list of locked files and their paths.
+
+
+
+
+
+## Usage
+
+The MasterLock Vault Program offers a menu-driven interface for managing your locked files:
+
+- MasterLock a File🔐: Use this option to lock a file by providing its path and a password.
+
+- Unlock a File🔓: Unlock a previously locked file by providing its path and the correct password.
+
+- Display Locked Files📁: View a list of all locked files and their paths.
+
+- Exit🔚: Exit the MasterLock Vault Program.
+
+
+
+
+
+## Getting Started
+
+- Encryption Key: The program generates an encryption key when you first run it. This key is stored securely for future use.
+
+- Locking a File: Select option 1 to lock a file. Provide the file's path and a password to lock it.
+
+- Unlocking a File: Select option 2 to unlock a file. Provide the file's path and the correct password to unlock it.
+
+- View Locked Files: Select option 3 to view a list of locked files and their paths.
+
+- Password Security: Ensure the security of your passwords. Choose strong and unique passwords for each locked file.
+
+
+## Example:
+
+- Select option 1 to lock a file. Provide the file's path and a password to lock it.
+
+
+
+![ml2](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/169975ff-fc12-468f-a580-c03a2ba26439)
+
+
+
+![ml1](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/1514659c-6257-459d-b64b-9dfddb9d151b)
+
+
+
+- After providing a password, the program generates an encryption key and will be stored securely for future use.
+
+
+
+![ml3](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/96088c45-fa98-4700-b9b4-a57db589c5ff)
+
+
+
+- Select option 3 to view a list of locked files and their paths.
+
+
+
+![ml4](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/524257ab-b754-4482-8aa6-fd9d15fbd35a)
+
+
+
+- Select option 2 to unlock a file. Provide the file's path and the correct password to unlock it.
+
+
+
+![ml5](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/e402359f-00a4-42e3-a050-7491bfb4c6bf)
+
+
+
+- The file will be unlocked and gets back to its original form.
+
+
+
+![ml6](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/cb4ca45c-c2cb-43ff-91a3-19d2685f127a)
+
+
+
+
+
+Secure your files and keep them away from prying eyes with the MasterLock Vault Program. Protect your files with MasterLock today! 🔒
+
+
+  
+
+
+
+
+
+
+
+
 ## *PyVault
 
 
