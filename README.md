@@ -619,7 +619,72 @@ The MasterLock Vault Program offers a menu-driven interface for managing your lo
 Secure your files and keep them away from prying eyes with the MasterLock Vault Program. Protect your files with MasterLock today! 🔒
 
 
-  
+
+
+
+
+
+
+
+
+## *PyBoredomSolver
+
+
+
+
+
+PyBoredomSolver is a Python program that helps you find interesting activities to do when you're feeling bored. It does this by fetching random activity suggestions from the "Bored API" and displaying them to the user. The user has the option to refresh for a new activity suggestion or terminate the program.
+
+
+
+
+
+![PyBoredomSolver](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/2c06024f-24cb-421a-91a2-ab1468be2806)
+
+
+
+
+
+## Features
+
+- Fetch Random Activities: The program fetches a random activity suggestion from the Bored API.
+
+- Display Activity: It displays the fetched activity to the user.
+
+- Refresh: The user can choose to refresh for a new activity suggestion.
+
+- Terminate: The user can choose to terminate the program.
+
+
+
+
+
+## Usage
+
+- Fetch Random Activity: When you run the program, it will automatically fetch a random activity from the Bored API and display it. The activity will include a description of what you can do to alleviate 
+  boredom.
+
+- Refresh: If you want a new activity suggestion, type 'R' and press Enter. The program will fetch another random activity and display it.
+
+- Terminate: To exit the program, type 'T' and press Enter. The program will display a termination message and close.
+
+
+
+
+
+## Dependencies
+
+This program relies on the requests library to make HTTP requests to the Bored API. You can install this library using pip if it's not already installed:
+
+pip install requests
+
+
+
+
+
+Never be bored again! Use PyBoredomSolver to discover new activities and beat boredom. If you have any questions or suggestions, feel free to reach out. Have fun solving your boredom with Python! 😄
+
+
 
 
 
