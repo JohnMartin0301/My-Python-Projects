@@ -676,13 +676,13 @@ PyBoredomSolver is a Python program that helps you find interesting activities t
 
 This program relies on the requests library to make HTTP requests to the Bored API. You can install this library using pip if it's not already installed:
 
-pip install requests
+- pip install requests
 
 
 
 
 
-Never be bored again! Use PyBoredomSolver to discover new activities and beat boredom. If you have any questions or suggestions, feel free to reach out. Have fun solving your boredom with Python! 😄
+Never be bored again! Use PyBoredomSolver to discover new activities and beat boredom. Have fun solving your boredom with Python! 😄
 
 
 
