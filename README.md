@@ -693,6 +693,93 @@ Never be bored again! Use PyBoredomSolver to discover new activities and beat bo
 
 
 
+## PyIDE
+
+
+
+
+
+PyIDE is a simple Integrated Development Environment (IDE) built using the Tkinter library. It provides a basic code editor and the ability to run Python scripts. Additionally, it offers features like opening, saving, and themes.
+
+
+
+
+
+![pyide](https://github.com/JohnMartin0301/My-Python-Projects/assets/112761826/9e132543-503b-4c01-b722-3fba8fcd5b2c)
+
+
+
+
+
+## Features:
+
+Code Editor: PyIDE provides a text editor for writing and editing Python code. It includes a grid layout to make it expandable in all directions when the window is resized.
+
+Display Output: Below the code editor, there's a space for displaying the output of Python scripts.
+
+Themes: Users can choose from a selection of color themes to customize the appearance of the code editor and output display.
+
+Open and Save Files: The IDE allows users to open and save Python script files.
+
+Run Python Code: Users can run Python scripts using the "Run" option.
+
+Color Themes:
+
+PyIDE supports various color themes, including Light Theme, Dark Theme, and a variety of themes with different color schemes.
+
+
+
+
+
+## Usage:
+
+Open File: Use the "Open" option in the File menu to open a Python script file for editing.
+
+Save and Save As: The "Save" option saves the current code, while "Save As" allows you to choose a file path and name for saving.
+
+Themes: The "Themes" menu lets you select a color theme for the code editor.
+
+Run: Click "Run" in the "Run" menu to execute the Python code. If you haven't saved your code, it will prompt you to do so first.
+
+
+
+
+
+## Dependencies:
+
+The IDE uses the tkinter library for the graphical user interface and the subprocess library to run Python scripts.
+
+Example:
+
+Here's how to use PyIDE:
+
+Open PyIDE.
+
+Choose a theme from the "Themes" menu.
+
+Create or open a Python script using the "Open" option.
+
+Write or edit your Python code in the editor.
+
+Use the "Save" or "Save As" option to save your code.
+
+Click "Run" to execute your Python script.
+
+
+
+
+
+Enjoy coding with PyIDE!
+
+
+
+
+
+
+
+
+
+
 ## *PyVault
 
 
